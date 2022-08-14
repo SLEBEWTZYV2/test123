@@ -64,7 +64,7 @@ const questions = [
 
         name: "round",
 
-        message: color("By Steven Authorization keys taken at 'Round':"),
+        message: color("By SlebewTzy V2 Authorization keys taken at 'Round':"),
 
         prefix: `${color("[", "redBright")}+${color("]", "redBright")}`,
 
